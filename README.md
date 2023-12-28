@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**JapiKredi/JapiKredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Advanced Certification Generative AI
 - 🌱 I’m currently learning Flask, HTML, CSS
 - 👯 I’m looking to collaborate on Generative AI projects
