@@ -7,7 +7,7 @@
 - 💬 Ask me about Deep Learning and Trasformers
 - 📫 How to reach me: jasper.bongers@yahoo.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I started coding when i was 10 years, and 'some' years later picked up on coding (-;
+- ⚡ Fun fact: I started coding when i was 10 years, and 'some' years later picked up on coding again (-;
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JapiKredi&theme=radical)](https://git.io/streak-stats)
