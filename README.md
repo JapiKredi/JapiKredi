@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Advanced Certification Generative AI
-- 🌱 I’m currently learning Flask, HTML, CSS
+- 🌱 I’m currently learning LLM's, RAG's, Vector databaes and AI Agents 
 - 👯 I’m looking to collaborate on Generative AI projects
 - 🤔 I’m looking for help with getting Generative AI Projects to further improve my skills
 - 💬 Ask me about Deep Learning and Trasformers
